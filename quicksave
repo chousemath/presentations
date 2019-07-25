@@ -1,8 +1,8 @@
 #!/bin/bash
 
-echo "performing git add..."
+echo "***   performing git add..."
 git add .
-echo "performing git commit..."
+echo "***   performing git commit..."
 git commit -am "This is a quick save"
-echo "performing git push..."
+echo "***   performing git push..."
 git push
